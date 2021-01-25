@@ -1,7 +1,7 @@
-requests==2.18.2
+requests
 cbpro
-krakenex
-pykrakenapi
+#krakenex
+#pykrakenapi
 keras
 tensorflow
 sklearn
