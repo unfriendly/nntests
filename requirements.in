@@ -1,7 +1,7 @@
 requests
-cbpro
-#krakenex
-#pykrakenapi
+#cbpro
+krakenex
+pykrakenapi
 keras
 tensorflow
 sklearn
