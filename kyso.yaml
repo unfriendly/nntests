@@ -1,0 +1,6 @@
+title: "Cryptonn"
+description: "Crypto NN"
+branch: "main"
+main: "cryptonn.ipynb"
+tags:
+  - crypto
